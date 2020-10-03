@@ -1,7 +1,7 @@
 # Hello GUI World
 Trying a basic GUI for converting strings to upper or lower case
 
-## Gameplay
+## GUI
 ![GUI](/01.%20Hello%20GUI%20World/Assets/gui.gif)
 
 ## Features:
