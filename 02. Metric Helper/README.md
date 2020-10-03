@@ -2,7 +2,7 @@
 Trying a basic GUI for converting numbers into various units
 
 ## GUI
-![GUI](/01.%20Metric%20Helper/Assets/gui.gif)
+![GUI](/02.%20Metric%20Helper/Assets/gui.gif)
 
 ## Features:
 Converts the given number into the selected unit
