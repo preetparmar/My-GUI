@@ -44,7 +44,7 @@ def open_list():
 
 
 # Creating Root Window
-root = tk.Tk(r'03. Simple Checklist\Assets\check.ico')
+root = tk.Tk()
 root.title('Simple Checklist')
 root.iconbitmap(r'03. Simple Checklist\Assets\check.ico')
 root.geometry('400x400+1400+300')
