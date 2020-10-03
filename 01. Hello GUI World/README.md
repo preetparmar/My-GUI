@@ -2,7 +2,7 @@
 Trying a basic GUI for converting strings to upper or lower case
 
 ## Gameplay
-![GUI](/01. Hello GUI World/Assets/gui.gif)
+![GUI](/01.%20Hello%20GUI%20World/Assets/gui.gif)
 
 ## Features:
 Converts the given string text to upper or lower case based on the radio button selection, and then prints the result
