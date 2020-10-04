@@ -1,0 +1,10 @@
+Courier
+12
+Italic
+Things you can do here:
+1. Create a note
+2. Change Font
+3. Change Font Size
+4. Change Font Style
+5. Save the file
+6. Open the file
