@@ -1,4 +1,4 @@
-# Simple Checklist
+# Notepad
 Trying a basic GUI for a custom notepad
 
 ## Screenshot
